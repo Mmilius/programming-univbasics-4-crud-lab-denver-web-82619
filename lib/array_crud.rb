@@ -24,8 +24,8 @@ end
 
 def remove_element_from_start_of_array(array)
   dogs = ["spike", "max"]
-  nickname = dogs.
-  
+  nickname = dogs.shift
+  p nickname
 end
 
 def retrieve_element_from_index(array, index_number)
