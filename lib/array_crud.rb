@@ -44,7 +44,7 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  candy = ["gum", "snickers", "crunch", "twix"]
+  candy = ["gum", "snickers", "crunch", "twix", "chocolate"]
   candy [4] = "totally"
   p candy
 end
