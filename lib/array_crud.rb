@@ -45,6 +45,7 @@ end
 
 def update_element_from_index(array, index_number, element)
   candy = ["gum", "snickers", "crunch", "twix"]
-  candy [4]
+  candy [4] = "totally"
+  
   
 end
